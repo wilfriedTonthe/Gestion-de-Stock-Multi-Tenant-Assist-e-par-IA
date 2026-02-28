@@ -88,8 +88,8 @@
 ## 🚧 Fonctionnalités À Développer
 
 ### 📧 Notifications
-- [ ] Envoi d'emails via Resend API (configuration prête)
-- [ ] Notifications de stock bas par email
+- [x] Envoi d'emails via Resend API ✅
+- [x] Notifications de stock bas par email (envoyées automatiquement au manager) ✅
 - [ ] Notifications de nouveaux mouvements
 - [ ] Récapitulatif quotidien/hebdomadaire
 
